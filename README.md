@@ -10,7 +10,7 @@ It allows you to redirect pages simply by adding attributes to buttons or other 
 - Redirect to any page using **`hc-gate`**  
 - Optional file extension via **`hc-extension`** (defaults to `.html`)  
 - Works with **dynamically created elements**  
-- Minimal, lightweight and plug-and-use.
+- Minimal and lightweight.
 - No dependencies  
 
 ---
