@@ -1,6 +1,6 @@
 # Hecate
 
-**Hecate** is a minimalJavaScript router.  
+**Hecate** is a minimal JavaScript router.  
 It allows you to redirect pages simply by adding attributes to buttons or other clickable elements.
 
 ---
